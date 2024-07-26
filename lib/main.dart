@@ -6,7 +6,7 @@ void main() {
   runApp(ClimateChangeHelperApp());
 }
 
-class ClimateChangeHelperApp extends StatelessWidget {
+class ClimateChangeHelperAppHAHAHAHAHHAHA extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
